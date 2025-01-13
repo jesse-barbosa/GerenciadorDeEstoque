@@ -6,7 +6,7 @@
 
 ## 1. Instale o Python
 
-Se ainda não tem o Python instalado, baixe e instale a versão mais recente no site oficial.
+Se ainda não tem o Python instalado, baixe e instale a versão mais recente no [site oficial](https://www.python.org/downloads/).
 
 ## 2. Rodando o Projeto
 
