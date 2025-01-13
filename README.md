@@ -13,4 +13,4 @@ Se ainda não tem o Python instalado, baixe e instale a versão mais recente no 
 Clone ou baixe o repositório.
 Execute o código: Abra o terminal, navegue até o diretório onde o código está salvo e execute:
 
-    python GerenciadorDeEstoque.py
+    python main.py
